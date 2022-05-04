@@ -1,6 +1,7 @@
 import IconList from "../IconList";
 import Space from "../../Space";
 import EmailToolBarRight from "./EmailToolBarRight";
+import "./MailToolBar.css";
 
 const EmailToolBar = () => {
   return (
