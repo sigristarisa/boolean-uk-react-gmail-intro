@@ -2,7 +2,7 @@ import "./styles/app.css";
 
 import Header from "./Header/Header";
 import NaviBar from "./NaviBar/NaviBar";
-import Main from "./Main";
+import Main from "./Main/Main";
 
 function App() {
   return (
