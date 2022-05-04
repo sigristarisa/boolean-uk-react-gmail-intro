@@ -1,6 +1,6 @@
 import "./styles/app.css";
 
-import Header from "./Header";
+import Header from "./Header/Header";
 import NaviBar from "./NaviBar";
 import Main from "./Main";
 
